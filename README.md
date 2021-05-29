@@ -41,11 +41,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamNagure&repo=BhavCopy-Report-Analysis&theme=dark" />
 </a>
 
-
-<a href="https://github.com/ShubhamNagure/Working-with-TwitterAPI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamNagure&repo=Working-with-TwitterAPI&theme=dark" />
-</a>
-
 <a href="https://github.com/ShubhamNagure/speech-recognition-based-task-automation-system/tree/master">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamNagure&repo=speech-recognition-based-task-automation-system&theme=dark" />
 </a>
