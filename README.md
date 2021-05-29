@@ -1,10 +1,13 @@
+![Twitter Follow](https://img.shields.io/twitter/follow/shubham_nagure?style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=ShubhamNagure.ShubhamNagure)
+
 ### Hi there, I'm [Shubham!](https://shubhamnagure.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 - 🔭 I’m currently working on Django-Vue-Redis [app](http://139.59.11.162/)
 - 🌱 I’m currently learning Redis
 - 💬 Ask me about anything related to Java/Python or Django
-- 📫 How to reach me: [@shubham_nagure](https://twitter.com/shubham_nagure)
+- 📫 How to reach me: [![Linkedin: Shubham Nagure](https://img.shields.io/badge/-Shubham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-nagure/)](https://www.linkedin.com/in/shubham-nagure/)
 
 
 **Languages and Tools:**  
