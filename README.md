@@ -30,10 +30,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamNagure&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+
 ## Waka stats
 
 [![Shubham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=73e10ca7-59ba-4fc9-b483-57ef2f6afc5b&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## Github Profile Trophy
+https://github-profile-trophy.vercel.app/?username=ShubhamNagure&theme=juicyfresh
 
 ## Repo's
 
