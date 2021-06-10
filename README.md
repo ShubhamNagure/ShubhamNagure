@@ -1,6 +1,12 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/shubham_nagure?style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=ShubhamNagure.ShubhamNagure)
 
+
+<p align="center">
+<img src="https://github.com/ShubhamNagure/ShubhamNagure/blob/main/images/banner (1).png" width="9000" height="350" />
+</p>
+
+<p align="center">
 ### Hi there, I'm [Shubham!](https://shubhamnagure.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
