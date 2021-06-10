@@ -53,10 +53,10 @@
 
 <p align="center">
   
-<img src="https://img.shields.io/badge/_s_h_u_v_a_m_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_s_h_u_v_a_m_/"/>
-<img src="https://img.shields.io/badge/-nagureshubham?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nagure.shubham@gmail.com"/>
-<img src="https://img.shields.io/badge/-shubhamnagure-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-nagure/"/>
-<img src="https://img.shields.io/badge/-shubham_nagure-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/shubham_nagure"/>
+<a href="https://www.instagram.com/_s_h_u_v_a_m_/"><img src="https://img.shields.io/badge/_s_h_u_v_a_m_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_s_h_u_v_a_m_/"/></a>
+<a href="mailto:nagure.shubham@gmail.com"> <img src="https://img.shields.io/badge/-nagureshubham?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nagure.shubham@gmail.com"/></a>
+<a href="https://www.linkedin.com/in/shubham-nagure/"> <img src="https://img.shields.io/badge/-shubhamnagure-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-nagure/"/></a>
+<a href="https://twitter.com/shubham_nagure"><img src="https://img.shields.io/badge/-shubham_nagure-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/shubham_nagure"/></a>
 
 </p>
 
