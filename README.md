@@ -13,7 +13,6 @@
 - 🔭 I’m currently working on Django-Vue-Redis [app](http://139.59.11.162/)
 - 🌱 I’m currently learning Redis
 - 💬 Ask me about anything related to Java/Python or Django
-- 📫 How to reach me: [![Linkedin: Shubham Nagure](https://img.shields.io/badge/-Shubham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-nagure/)](https://www.linkedin.com/in/shubham-nagure/)
 
 
 **Languages and Tools:**  
