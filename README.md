@@ -18,7 +18,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 
-
+## Github Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShubhamNagure&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Github stats
 
@@ -30,15 +31,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamNagure&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
 ## Waka stats
 
 [![Shubham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=73e10ca7-59ba-4fc9-b483-57ef2f6afc5b&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShubhamNagure&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
