@@ -18,35 +18,45 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 
-## Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShubhamNagure&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Github stats
+<h2 align="center">
+  Github Profile Trophy
+</h2>
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamNagure&show_icons=true&theme=dark)
-
-
-## Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamNagure&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">
+  <img src= "https://github-profile-trophy.vercel.app/?username=ShubhamNagure&theme=juicyfresh">
+</h2>
 
 
-## Waka stats
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
 
-[![Shubham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=73e10ca7-59ba-4fc9-b483-57ef2f6afc5b&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=ShubhamNagure&show_icons=true&theme=radical&line_height=27">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamNagure&hide=html,css,shell,shaderlab,kotlin,hlsl&theme=radical">
+</p>
+
+----
+
+<h2 align="center">
+  Waka stats
+</h2>
+
+<h2 align="center">
+  <img src= "https://github-readme-stats.vercel.app/api/wakatime?username=73e10ca7-59ba-4fc9-b483-57ef2f6afc5b&theme=dark">
+</h2>
 
 
 
+<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
+<p align="center">
+  
+<img src="https://img.shields.io/badge/_s_h_u_v_a_m_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_s_h_u_v_a_m_/"/>
+<img src="https://img.shields.io/badge/-nagureshubham?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nagure.shubham@gmail.com"/>
+<img src="https://img.shields.io/badge/-shubhamnagure-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-nagure/"/>
+<img src="https://img.shields.io/badge/-shubham_nagure-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/shubham_nagure"/>
 
-
-## Repo's
-
-<a href="https://github.com/ShubhamNagure/BhavCopy-Report-Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamNagure&repo=BhavCopy-Report-Analysis&theme=dark" />
-</a>
-
-<a href="https://github.com/ShubhamNagure/speech-recognition-based-task-automation-system/tree/master">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamNagure&repo=speech-recognition-based-task-automation-system&theme=dark" />
-</a>
+</p>
 
