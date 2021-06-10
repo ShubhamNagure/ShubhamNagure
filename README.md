@@ -6,8 +6,8 @@
 <img src="https://github.com/ShubhamNagure/ShubhamNagure/blob/main/images/banner (1).png" width="9000" height="350" />
 </p>
 
-<p align="center">
-### Hi there, I'm [Shubham!](https://shubhamnagure.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- <p align="center">
+### Hi there, I'm [Shubham!](https://shubhamnagure.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 
 - 🔭 I’m currently working on Django-Vue-Redis [app](http://139.59.11.162/)
