@@ -38,7 +38,9 @@
 
 
 ## Github Profile Trophy
-https://github-profile-trophy.vercel.app/?username=ShubhamNagure&theme=juicyfresh
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShubhamNagure&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ## Repo's
 
