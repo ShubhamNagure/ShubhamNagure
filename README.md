@@ -71,8 +71,11 @@
 </h2>
 
 <h2 align="center">
-  <img src= "https://github-readme-stats.vercel.app/api/wakatime?username=73e10ca7-59ba-4fc9-b483-57ef2f6afc5b&theme=dark">
+<!--   <img src= "https://github-readme-stats.vercel.app/api/wakatime?username=73e10ca7-59ba-4fc9-b483-57ef2f6afc5b&theme=dark"> -->
+  <img src= "https://github-readme-stats.vercel.app/api/wakatime?username=73e10ca7-59ba-4fc9-b483-57ef2f6afc5b&layuout=compact&theme=synthwave">
 </h2>
+
+
 
 
 
