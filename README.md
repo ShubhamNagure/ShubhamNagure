@@ -10,7 +10,7 @@
 ### Hi there, I'm [Shubham!](https://shubhamnagure.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 
-- 🔭 I’m currently working on Django-Vue-Redis androi
+- 🔭 I’m currently working on Django-Vue-Redis ANDROID
 - 🌱 I’m currently learning graph databases and cypher query
 - 💬 Ask me about anything related to Java/Python or Django
 - 🔭 Hacktoberfest [2020!](https://www.linkedin.com/feed/update/urn:li:activity:6752909251024347136/) <img src="https://raw.githubusercontent.com/github/explore/5a50921c15e01a964d7a1ff8a96763645fa1e269/topics/hacktoberfest/hacktoberfest.png" width ="20">
