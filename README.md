@@ -14,6 +14,7 @@
 - 🌱 I’m currently learning graph databases and cypher query
 - 💬 Ask me about anything related to Java/Python or Django
 - 🔭 Hacktoberfest [2020!](https://www.linkedin.com/feed/update/urn:li:activity:6752909251024347136/) <img src="https://raw.githubusercontent.com/github/explore/5a50921c15e01a964d7a1ff8a96763645fa1e269/topics/hacktoberfest/hacktoberfest.png" width ="20">
+- 🌱 Hacktoberfest [2023!]([https://www.linkedin.com/feed/update/urn:li:activity:6752909251024347136/](https://www.linkedin.com/posts/shubham-nagure_sustainability-environmentalresponsibility-activity-7118077090544926721-J-cD?utm_source=share&utm_medium=member_desktop)) <img src="https://raw.githubusercontent.com/github/explore/5a50921c15e01a964d7a1ff8a96763645fa1e269/topics/hacktoberfest/hacktoberfest.png" width ="20">
 
 
 **Languages and Tools:**  
